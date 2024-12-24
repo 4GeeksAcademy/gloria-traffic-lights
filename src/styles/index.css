@@ -10,3 +10,25 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.traffic-light{
+    background: black;
+    padding: 10px;
+    display: inline-block;
+    margin: auto;
+}
+.light{
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+}
+.red{background: red;}
+.yellow{background: yellow;}
+.green{background: green;}
+.brillo {
+    box-shadow: 1px 1px 10px 5px #ffffff;
+}
+.boton{
+    padding: 0.5rem;
+    margin: 1rem;
+}
